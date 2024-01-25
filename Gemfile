@@ -62,3 +62,5 @@ end
 group :signature do
   gem 'rbs', platforms: :ruby
 end
+
+gem 'steep'

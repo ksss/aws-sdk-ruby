@@ -1,0 +1,6 @@
+target :lib do
+  check "t.rb"
+
+  signature "sig"
+  signature "../aws-sdk-core/sig"
+end
